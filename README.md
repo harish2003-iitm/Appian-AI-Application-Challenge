@@ -203,6 +203,7 @@ If you want to contribute or have suggestions, I'm all ears. Open an issue or PR
 ## Contact & Credits
 
 **Built by**: Harish (Tech Analysts)
+**Hackathon**: Appian Hackathon 2026
 **GitHub**: [@harish2003-iitm](https://github.com/harish2003-iitm)
 
 **Technologies Used**:
