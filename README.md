@@ -53,7 +53,7 @@ Here's something I'm really proud of: I integrated 6 different Gemini models wit
 When you hit API quota limits (which happens a lot on free tier), most systems just crash. Mine? It silently switches to the next available model. I have:
 1. Gemini 3 Flash (fastest, tries first)
 2. Gemini 3 Pro (for complex queries)
-3. Gemini 2.0 Flash Experimental
+3. Gemini 2.5 Pro
 4. Three more fallbacks
 
 The system stays up 99%+ of the time because of this. I learned this the hard way after my first demo crashed mid-presentation.
